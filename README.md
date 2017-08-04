@@ -2,16 +2,21 @@
 
 Segue abaixo principais ferramentas de Gestão de teste:
 
-TestLink - http://www.teamst.org/
+1-TestLink - http://www.teamst.org/ <br />
 
-QaManager - http://qamanager.sourceforge.net/
+2-QaManager - http://qamanager.sourceforge.net/ <br />
 
-rth - http://www.rth-is-quality.com
+3-rth - http://www.rth-is-quality.com <br />
 
-TestMaster - http://testmaster.sourceforge.net/
+4-TestMaster - http://testmaster.sourceforge.net/ <br />
 
-Testitool - http://majordojo.com/testitool/
+5-Testitool - http://majordojo.com/testitool/ <br />
 
-Test Case Web (TCW) - http://tcw.sourceforge.net/
+6-Test Case Web (TCW) - http://tcw.sourceforge.net/ <br />
 
-Testopia - http://www.mozilla.org/projects/testopia/
+7-Testopia - http://www.mozilla.org/projects/testopia/ <br />
+
+8-HP Quality Center - https://saas.hpe.com/pt-br/software/quality-center <br />
+
+9-Microsoft Test Manager - https://msdn.microsoft.com/pt-br/library/dd286680(v=vs.110).aspx <br />
+
