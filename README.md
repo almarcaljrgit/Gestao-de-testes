@@ -1,8 +1,8 @@
-# Gestao-de-testes
+# Gestão de testes
 
 Segue abaixo principais ferramentas de Gestão de teste:
 
-1-TestLink - http://www.teamst.org/ <br />
+1-**TestLink** http://www.teamst.org/  
 
 2-QaManager - http://qamanager.sourceforge.net/ <br />
 
